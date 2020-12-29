@@ -15,5 +15,5 @@ Kaggle
 1. Performed data engineering with Python to process 7G click stream data & extracted information from timestamps
 2. Conducted exploratory data analysis from time series perspective through visualization of various user behavior trend plots
 3. Extracted 23 new statistical counting features on different interaction levels based on raw user click behavior data 
-4. Developed LightGBM model to predict Fraud behavior based on highly imbalanced data (5% negative)
+4. Developed LightGBM model to predict Fraud behavior based on highly imbalanced data (5% negative).
 
